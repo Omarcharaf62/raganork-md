@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "cosmoss-md",
   "version": "3.5.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "COSMOSS whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
@@ -15,7 +15,7 @@
     "multi-device"
   ],
   "author": "Sourav",
-  "developer": "@souravkl11",
+  "developer": "@COSMOSA",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
